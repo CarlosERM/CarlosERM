@@ -8,5 +8,3 @@ My name is Carlos Eduardo. I am a Computer Science student at [IF Goiano - Campu
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=CarlosERM&show_icons=true&theme=tokyonight" />
 </a>
 
-<a href="https://www.instagram.com/carloseduardormiranda/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/carlos-eduardo-rocha-miranda-a11603211/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/carloseduardo.rochamiranda.9/"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://www.youtube.com/channel/UComveDCOR4f0AhG80rzxuTg"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-
