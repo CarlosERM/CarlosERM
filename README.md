@@ -6,7 +6,6 @@ Estudante de Ciência da Computação, IF Goiano - Campus Morrinhos.
 
 #### Github's Status
 
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosERM&layout=compact)](https://github.com/CarlosERM/github-readme-stats)
-![Carlos's stats](https://github-readme-stats.vercel.app/api?username=CarlosERM&theme=dracula&show_icons=true)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosERM&layout=compact)](https://github.com/CarlosERM/github-readme-stats) ![Carlos's stats](https://github-readme-stats.vercel.app/api?username=CarlosERM&theme=dracula&show_icons=true)
 
  <a href="https://www.linkedin.com/in/carloserm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
