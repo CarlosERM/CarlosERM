@@ -1,6 +1,7 @@
 # Bem vindo!
 
-Meu nome é Carlos Eduardo. Eu sou um estudante de Ciência da Computação no [IF Goiano - Campus Morrinhos](https://www.ifgoiano.edu.br/home/index.php/morrinhos). Eu estou estudando Front End para trabalhar como Desenvolvedor Web.
+Estudante de Ciência da Computação, IF Goiano - Campus Morrinhos. 
+HTML, CSS, JavaScript, TypeScript, React.js, Flutter, Node.js, Python/Selenium.
 
  <div>
   <a href="https://github.com/CarlosERM">
