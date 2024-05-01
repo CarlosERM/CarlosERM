@@ -1,5 +1,7 @@
 ### Olá, eu sou o Carlos.
-Meu nome é Carlos Eduardo Rocha Miranda e estudo Bacharelado em Ciência da Computação no IF Goiano – Campus Morrinhos. Sou um dos membros fundadores da empresa júnior Peki Code, e também sou pesquisador do Grupo de Excelência em Dados, Automação e Inteligência Artificial (GEDAIA). 
+Meu nome é Carlos Eduardo Rocha Miranda e estudo Bacharelado em Ciência da Computação no IF Goiano – Campus Morrinhos. 
+Sou um dos membros fundadores da empresa júnior Peki Code, e também sou pesquisador do Grupo de Excelência em Dados, Automação e Inteligência Artificial (GEDAIA).
+
 Já trabalhei no desenvolvimento de sistemas utilizando tecnologias como React, Flutter, Django e NodeJS. Além disso, atuo no desenvolvimento de interfaces de usuário (UI/UIX). 
 
 
